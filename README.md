@@ -18,7 +18,7 @@ _____
 
   ### 📂 Featured Projects
 * **🐍 Python Data Analysis:** [Link to your Python repo] - *End-to-end data cleaning and analysis using Pandas and NumPy.*
-* **📈 SQL Business Insights:** (In Progress) - *Using complex queries to extract actionable KPIs from relational databases.*
+* **📈 SQL Business Insights:** (https://github.com/LavinaDH/Data-Analyst-SQL-Project) - *Using complex queries to extract actionable KPIs from relational databases.*
 * **📊 Power BI Dashboard:** (In Progress) - *Interactive storytelling and visualization of market trends.*
 * **📉 Advanced Excel Modeling:** (In Progress) - *Financial/Sales modeling using Pivot Tables and Lookups.*
 
